@@ -1,0 +1,4352 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: MotoPress Content Editor\n"
+"POT-Creation-Date: 2018-11-12 14:40+0200\n"
+"PO-Revision-Date: 2017-02-10 17:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: motopress-content-editor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: !zip/motopress-content-editor-lite/includes/EDD_MPCE_Plugin_Updater.php:201
+#: includes/EDD_MPCE_Plugin_Updater.php:201
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details"
+"%4$s."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/EDD_MPCE_Plugin_Updater.php:209
+#: includes/EDD_MPCE_Plugin_Updater.php:209
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details"
+"%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/EDD_MPCE_Plugin_Updater.php:394
+#: includes/EDD_MPCE_Plugin_Updater.php:394
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/EDD_MPCE_Plugin_Updater.php:394
+#: includes/EDD_MPCE_Plugin_Updater.php:394
+msgid "Error"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:74
+#: includes/admin.php:74
+msgid "Error while installing the default set of Google Fonts."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:95
+#: !zip/motopress-content-editor-lite/includes/admin.php:102
+#: !zip/motopress-content-editor-lite/includes/admin.php:106
+#: includes/admin.php:95 includes/admin.php:102 includes/admin.php:106
+#, php-format
+msgid ""
+"Note: you are not able to edit Google Fonts because the directory %s not "
+"found or not writable."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:133
+#: !zip/motopress-content-editor-lite/includes/admin.php:361
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEContentManager.php:568
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEContentManager.php:626
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:21
+#: !zip/motopress-content-editor-lite/motopress-content-editor.php:242
+#: includes/admin.php:133 includes/admin.php:361
+#: includes/ce/MPCEContentManager.php:568
+#: includes/ce/MPCEContentManager.php:626 includes/motopressOptions.php:21
+#: motopress-content-editor.php:242
+msgid "Visual Builder"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:134
+#: includes/admin.php:134
+msgid "Visual Builder Lite"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:139
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:13
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:16
+#: includes/admin.php:139 includes/jsTranslations.php:13
+#: includes/motopressOptions.php:16
+msgid "Settings"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:149
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:493
+#: includes/admin.php:149 includes/motopressOptions.php:493
+msgid "Licenses"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:185
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:82
+#: includes/admin.php:185 includes/jsTranslations.php:82
+msgid "no title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:264
+#: includes/admin.php:264
+#, php-format
+msgid ""
+"%s Visual Builder makes the process of post building easy and fast. Its "
+"Drag&Drop functionality helps to manage your pages, add built-in content "
+"elements, edit them visually and see the result right away. For more "
+"information visit <a href='%s' target='_blank'>%s</a>"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:268
+#: !zip/motopress-content-editor-lite/includes/ce/contentEditorFunctions.php:57
+#: includes/admin.php:268 includes/ce/contentEditorFunctions.php:57
+#, php-format
+msgid ""
+"Minimum jQuery version - %s. Minimum jQuery UI version - %s. Please update "
+"WordPress to 3.5 or higher."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:271
+#: includes/admin.php:271
+msgid ""
+"Your browser is not supported. We recommend one of these supported "
+"browsers: <a href='http://www.mozilla.org/en-US/firefox/new' "
+"target='_blank'>Firefox</a>, <a href='http://www.google.com/chrome' "
+"target='_blank'>Chrome</a>."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/admin.php:273
+#: includes/admin.php:273
+msgid ""
+"<b>Visual Builder button can be found in the Pages and Posts section.</b>"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:45
+#: includes/ce/BaseElement.php:45
+msgid ""
+"Value should not be longer than 50 characters and consist of letters from "
+"a-z (LowerCase, UpperCase), characters: _ - ."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:48
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:76
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:175
+#: !zip/motopress-content-editor-lite/includes/ce/Group.php:85
+#: !zip/motopress-content-editor-lite/includes/ce/Object.php:131
+#: !zip/motopress-content-editor-lite/includes/ce/Object.php:164
+#: !zip/motopress-content-editor-lite/includes/ce/Object.php:209
+#: !zip/motopress-content-editor-lite/includes/ce/Object.php:305
+#: !zip/motopress-content-editor-lite/includes/ce/Template.php:57
+#: includes/ce/BaseElement.php:48 includes/ce/BaseElement.php:76
+#: includes/ce/BaseElement.php:175 includes/ce/Group.php:85
+#: includes/ce/Object.php:131 includes/ce/Object.php:164
+#: includes/ce/Object.php:209 includes/ce/Object.php:305
+#: includes/ce/Template.php:57
+msgid "Value should not be empty"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:51
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:79
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:178
+#: !zip/motopress-content-editor-lite/includes/ce/Element.php:38
+#: !zip/motopress-content-editor-lite/includes/ce/Element.php:56
+#: !zip/motopress-content-editor-lite/includes/ce/Group.php:88
+#: !zip/motopress-content-editor-lite/includes/ce/Object.php:134
+#: !zip/motopress-content-editor-lite/includes/ce/Object.php:167
+#: !zip/motopress-content-editor-lite/includes/ce/Template.php:60
+#: includes/ce/BaseElement.php:51 includes/ce/BaseElement.php:79
+#: includes/ce/BaseElement.php:178 includes/ce/Element.php:38
+#: includes/ce/Element.php:56 includes/ce/Group.php:88
+#: includes/ce/Object.php:134 includes/ce/Object.php:167
+#: includes/ce/Template.php:60
+#, php-format
+msgid "Invalid argument type - %s"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:73
+#: includes/ce/BaseElement.php:73
+msgid ""
+"Value should not be longer than 100 characters and not contain characters: "
+"\\ \""
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:166
+#: includes/ce/BaseElement.php:166
+#, php-format
+msgid "Invalid MIME type %s. Allowed MIME types: image/jpeg, image/png"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:169
+#: includes/ce/BaseElement.php:169
+msgid "Unknown MIME type"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/BaseElement.php:172
+#: includes/ce/BaseElement.php:172
+#, php-format
+msgid "File %s does not exist"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Element.php:35
+#: includes/ce/Element.php:35
+#, php-format
+msgid "Value should be between %d and %d"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/FrontendBuilder.php:102
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEFrontendBuilder.php:131
+#: includes/ce/MPCEFrontendBuilder.php:132
+msgid "Save Object Template"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/FrontendBuilder.php:103
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEFrontendBuilder.php:132
+#: includes/ce/MPCEFrontendBuilder.php:133
+msgid "Save Page Template"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/FrontendBuilder.php:105
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEFrontendBuilder.php:135
+#: includes/ce/MPCEFrontendBuilder.php:136
+msgid "Duplicate Object"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/FrontendBuilder.php:239
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEFrontendBuilder.php:270
+#: includes/ce/MPCEFrontendBuilder.php:271
+msgid "Page"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/FrontendBuilder.php:239
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEFrontendBuilder.php:270
+#: includes/ce/MPCEFrontendBuilder.php:271
+msgid "Post"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:250
+#: includes/ce/Library.php:250
+msgid "Container Width:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:251
+#: includes/ce/Library.php:251
+#, php-format
+msgid "Set fixed width in <a href='%s' target='_blank'>plugin settings</a>"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:254
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:264
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:30
+#: includes/ce/Library.php:254 includes/ce/Library.php:264
+#: includes/jsTranslations.php:30
+msgid "Auto"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:255
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:265
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:540
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:648
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:801
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:823
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:946
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2326
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2369
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2982
+#: includes/ce/Library.php:255 includes/ce/Library.php:265
+#: includes/ce/Library.php:540 includes/ce/Library.php:648
+#: includes/ce/Library.php:801 includes/ce/Library.php:823
+#: includes/ce/Library.php:946 includes/ce/Library.php:2326
+#: includes/ce/Library.php:2369 includes/ce/Library.php:2982
+msgid "Full"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:256
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:266
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:42
+#: includes/ce/Library.php:256 includes/ce/Library.php:266
+#: includes/jsTranslations.php:42
+msgid "Fixed"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:275
+#: includes/ce/Library.php:275
+msgid "Fill the height of the window"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:280
+#: includes/ce/Library.php:280
+msgid "Background:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:281
+#: includes/ce/Library.php:281
+msgid ""
+"Full preview is available at the website only. Select 'Full-Width' style "
+"to stretch media to the website width."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:284
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:668
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:803
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:874
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1310
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1345
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2371
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2416
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2453
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3016
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3084
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3214
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3523
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3652
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3669
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3763
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3780
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:53
+#: includes/ce/Library.php:284 includes/ce/Library.php:668
+#: includes/ce/Library.php:803 includes/ce/Library.php:874
+#: includes/ce/Library.php:1310 includes/ce/Library.php:1345
+#: includes/ce/Library.php:2371 includes/ce/Library.php:2416
+#: includes/ce/Library.php:2453 includes/ce/Library.php:3016
+#: includes/ce/Library.php:3084 includes/ce/Library.php:3214
+#: includes/ce/Library.php:3523 includes/ce/Library.php:3652
+#: includes/ce/Library.php:3669 includes/ce/Library.php:3763
+#: includes/ce/Library.php:3780 includes/jsTranslations.php:53
+msgid "None"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:285
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1887
+#: includes/ce/Library.php:285 includes/ce/Library.php:1887
+msgid "Video"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:286
+#: includes/ce/Library.php:286
+msgid "YouTube"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:287
+#: includes/ce/Library.php:287
+msgid "Parallax"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:292
+#: includes/ce/Library.php:292
+msgid "YouTube video URL:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:294
+#: includes/ce/Library.php:294
+msgid "Paste the URL of YouTube video you'd like to embed"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:302
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:354
+#: includes/ce/Library.php:302 includes/ce/Library.php:354
+msgid "Select image to cover video"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:303
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:355
+#: includes/ce/Library.php:303 includes/ce/Library.php:355
+msgid "Cover image will be extended automatically"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:311
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:363
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1947
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:23
+#: includes/ce/Library.php:311 includes/ce/Library.php:363
+#: includes/ce/Library.php:1947 includes/jsTranslations.php:23
+msgid "Repeat"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:320
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:372
+#: includes/ce/Library.php:320 includes/ce/Library.php:372
+msgid "Mute"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:329
+#: includes/ce/Library.php:329
+msgid ""
+"Select video from Media Library in webm, mp4 and ogg formats for cross-"
+"browser compatibility. Use <a href='http://www.mirovideoconverter.com/' "
+"target='_blank'>video converter</a> to convert your video"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:330
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:338
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:346
+#: includes/ce/Library.php:330 includes/ce/Library.php:338
+#: includes/ce/Library.php:346
+#, php-format
+msgid "Video source in %s format:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:381
+#: includes/ce/Library.php:381
+msgid "Select image for parallax effect"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:382
+#: includes/ce/Library.php:382
+msgid "Background image moves slower than the foreground content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:390
+#: includes/ce/Library.php:390
+msgid "Background size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:393
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1613
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2910
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3726
+#: includes/ce/Library.php:393 includes/ce/Library.php:1613
+#: includes/ce/Library.php:2910 includes/ce/Library.php:3726
+msgid "Normal"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:394
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:28
+#: includes/ce/Library.php:394 includes/jsTranslations.php:28
+msgid "Cover"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:395
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:29
+#: includes/ce/Library.php:395 includes/jsTranslations.php:29
+msgid "Contain"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:417
+#: includes/ce/Library.php:417
+msgid "Element unique ID"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:418
+#: includes/ce/Library.php:418
+msgid ""
+"Must start with a letter and contain dashes, underscores, letters or "
+"numbers"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:422
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:11
+#: includes/ce/Library.php:422 includes/jsTranslations.php:11
+msgid "Row"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:426
+#: includes/ce/Library.php:426
+msgid "Note: some styles may work at a live site only."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:434
+#: includes/ce/Library.php:434
+msgid "Inner Row"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:437
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:9
+#: includes/ce/Library.php:437 includes/jsTranslations.php:9
+msgid "Column"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:448
+#: includes/ce/Library.php:448
+msgid "Inner Column"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:470
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:475
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:476
+#: includes/ce/Library.php:470 includes/ce/Library.php:475
+#: includes/ce/Library.php:476
+msgid "Paragraph"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:475
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:494
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:513
+#: includes/ce/Library.php:475 includes/ce/Library.php:494
+#: includes/ce/Library.php:513
+msgid "Click the text box to add and edit your content or click Edit"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:476
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:495
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:514
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2523
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2708
+#: !zip/motopress-content-editor-lite/templates/editor.php:121
+#: includes/ce/Library.php:476 includes/ce/Library.php:495
+#: includes/ce/Library.php:514 includes/ce/Library.php:2523
+#: includes/ce/Library.php:2708 templates/editor.php:121
+msgid "Edit"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:484
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:503
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:522
+#: includes/ce/Library.php:484 includes/ce/Library.php:503
+#: includes/ce/Library.php:522
+#, php-format
+msgid "Note: go to Dashboard - %s Settings to add Google Fonts."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:489
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:494
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:495
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2071
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3092
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3446
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3836
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3853
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3875
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3885
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3925
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3942
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3952
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3979
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4001
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4058
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4068
+#: includes/ce/Library.php:489 includes/ce/Library.php:494
+#: includes/ce/Library.php:495 includes/ce/Library.php:2071
+#: includes/ce/Library.php:3092 includes/ce/Library.php:3446
+#: includes/ce/Library.php:3836 includes/ce/Library.php:3853
+#: includes/ce/Library.php:3875 includes/ce/Library.php:3885
+#: includes/ce/Library.php:3925 includes/ce/Library.php:3942
+#: includes/ce/Library.php:3952 includes/ce/Library.php:3979
+#: includes/ce/Library.php:4001 includes/ce/Library.php:4058
+#: includes/ce/Library.php:4068
+msgid "Title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:508
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:513
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:514
+#: !zip/motopress-content-editor-lite/templates/editor.php:121
+#: includes/ce/Library.php:508 includes/ce/Library.php:513
+#: includes/ce/Library.php:514 templates/editor.php:121
+msgid "WordPress Text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:527
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4101
+#: includes/ce/Library.php:527 includes/ce/Library.php:4101
+msgid "Image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:530
+#: includes/ce/Library.php:530
+msgid "Select Image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:532
+#: includes/ce/Library.php:532
+msgid "Choose an image from Media Library"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:537
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:645
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:820
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:943
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2323
+#: includes/ce/Library.php:537 includes/ce/Library.php:645
+#: includes/ce/Library.php:820 includes/ce/Library.php:943
+#: includes/ce/Library.php:2323
+msgid "Image size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:541
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:649
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:824
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:947
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1156
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1177
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1277
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1749
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1855
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2327
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2911
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3417
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3437
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3617
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3727
+#: includes/ce/Library.php:541 includes/ce/Library.php:649
+#: includes/ce/Library.php:824 includes/ce/Library.php:947
+#: includes/ce/Library.php:1156 includes/ce/Library.php:1177
+#: includes/ce/Library.php:1277 includes/ce/Library.php:1749
+#: includes/ce/Library.php:1855 includes/ce/Library.php:2327
+#: includes/ce/Library.php:2911 includes/ce/Library.php:3417
+#: includes/ce/Library.php:3437 includes/ce/Library.php:3617
+#: includes/ce/Library.php:3727
+msgid "Large"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:542
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:650
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:825
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:948
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2328
+#: includes/ce/Library.php:542 includes/ce/Library.php:650
+#: includes/ce/Library.php:825 includes/ce/Library.php:948
+#: includes/ce/Library.php:2328
+msgid "Medium"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:543
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:651
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:826
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:949
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2329
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2980
+#: includes/ce/Library.php:543 includes/ce/Library.php:651
+#: includes/ce/Library.php:826 includes/ce/Library.php:949
+#: includes/ce/Library.php:2329 includes/ce/Library.php:2980
+msgid "Thumbnail"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:544
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:652
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:827
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:950
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1279
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1614
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1652
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2330
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2534
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2733
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2913
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2950
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2981
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3157
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3310
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3489
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3703
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3729
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:38
+#: includes/ce/Library.php:544 includes/ce/Library.php:652
+#: includes/ce/Library.php:827 includes/ce/Library.php:950
+#: includes/ce/Library.php:1279 includes/ce/Library.php:1614
+#: includes/ce/Library.php:1652 includes/ce/Library.php:2330
+#: includes/ce/Library.php:2534 includes/ce/Library.php:2733
+#: includes/ce/Library.php:2913 includes/ce/Library.php:2950
+#: includes/ce/Library.php:2981 includes/ce/Library.php:3157
+#: includes/ce/Library.php:3310 includes/ce/Library.php:3489
+#: includes/ce/Library.php:3703 includes/ce/Library.php:3729
+#: includes/jsTranslations.php:38
+msgid "Custom"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:549
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:657
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:836
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:955
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2339
+#: includes/ce/Library.php:549 includes/ce/Library.php:657
+#: includes/ce/Library.php:836 includes/ce/Library.php:955
+#: includes/ce/Library.php:2339
+msgid ""
+"Image size in pixels, ex. 200x100 or theme-registered image size. Note: "
+"the closest-sized image will be used if original one does not exist."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:557
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:567
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:665
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:869
+#: includes/ce/Library.php:557 includes/ce/Library.php:567
+#: includes/ce/Library.php:665 includes/ce/Library.php:869
+msgid "Link to"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:560
+#: includes/ce/Library.php:560
+msgid "Custom URL"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:561
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:669
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1204
+#: includes/ce/Library.php:561 includes/ce/Library.php:669
+#: includes/ce/Library.php:1204
+msgid "Media File"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:562
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:671
+#: includes/ce/Library.php:562 includes/ce/Library.php:671
+msgid "Lightbox"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:569
+#: includes/ce/Library.php:569
+msgid "Click on image to open the link. (ex. http://yoursite.com/)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:577
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:676
+#: includes/ce/Library.php:577 includes/ce/Library.php:676
+msgid "Link 'rel' value for your custom lightbox"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:586
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:685
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1036
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3302
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3551
+#: includes/ce/Library.php:586 includes/ce/Library.php:685
+#: includes/ce/Library.php:1036 includes/ce/Library.php:3302
+#: includes/ce/Library.php:3551
+msgid "Open link in new window (tab)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:591
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:690
+#: includes/ce/Library.php:591 includes/ce/Library.php:690
+msgid "Show image caption"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:592
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:691
+#: includes/ce/Library.php:592 includes/ce/Library.php:691
+msgid "You can set caption in media library"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:597
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1065
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1239
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1728
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1834
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2567
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3184
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3379
+#: includes/ce/Library.php:597 includes/ce/Library.php:1065
+#: includes/ce/Library.php:1239 includes/ce/Library.php:1728
+#: includes/ce/Library.php:1834 includes/ce/Library.php:2567
+#: includes/ce/Library.php:3184 includes/ce/Library.php:3379
+msgid "Alignment"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:600
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:859
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1050
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1068
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1224
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1242
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1300
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1731
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1837
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2570
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2590
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3187
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3382
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3425
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3464
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3526
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3563
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3639
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3672
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:36
+#: includes/ce/Library.php:600 includes/ce/Library.php:859
+#: includes/ce/Library.php:1050 includes/ce/Library.php:1068
+#: includes/ce/Library.php:1224 includes/ce/Library.php:1242
+#: includes/ce/Library.php:1300 includes/ce/Library.php:1731
+#: includes/ce/Library.php:1837 includes/ce/Library.php:2570
+#: includes/ce/Library.php:2590 includes/ce/Library.php:3187
+#: includes/ce/Library.php:3382 includes/ce/Library.php:3425
+#: includes/ce/Library.php:3464 includes/ce/Library.php:3526
+#: includes/ce/Library.php:3563 includes/ce/Library.php:3639
+#: includes/ce/Library.php:3672 includes/jsTranslations.php:36
+msgid "Left"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:601
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1069
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1243
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1301
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1732
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1838
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2571
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3188
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3383
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3465
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3564
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:32
+#: includes/ce/Library.php:601 includes/ce/Library.php:1069
+#: includes/ce/Library.php:1243 includes/ce/Library.php:1301
+#: includes/ce/Library.php:1732 includes/ce/Library.php:1838
+#: includes/ce/Library.php:2571 includes/ce/Library.php:3188
+#: includes/ce/Library.php:3383 includes/ce/Library.php:3465
+#: includes/ce/Library.php:3564 includes/jsTranslations.php:32
+msgid "Center"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:602
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:860
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1051
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1070
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1225
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1244
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1302
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1733
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1839
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2572
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2591
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3189
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3384
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3426
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3466
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3527
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3565
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3640
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3673
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:37
+#: includes/ce/Library.php:602 includes/ce/Library.php:860
+#: includes/ce/Library.php:1051 includes/ce/Library.php:1070
+#: includes/ce/Library.php:1225 includes/ce/Library.php:1244
+#: includes/ce/Library.php:1302 includes/ce/Library.php:1733
+#: includes/ce/Library.php:1839 includes/ce/Library.php:2572
+#: includes/ce/Library.php:2591 includes/ce/Library.php:3189
+#: includes/ce/Library.php:3384 includes/ce/Library.php:3426
+#: includes/ce/Library.php:3466 includes/ce/Library.php:3527
+#: includes/ce/Library.php:3565 includes/ce/Library.php:3640
+#: includes/ce/Library.php:3673 includes/jsTranslations.php:37
+msgid "Right"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:623
+#: includes/ce/Library.php:623
+msgid "Grid Gallery"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:627
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:937
+#: includes/ce/Library.php:627 includes/ce/Library.php:937
+msgid "Select images from Media Library"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:628
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:938
+#: includes/ce/Library.php:628 includes/ce/Library.php:938
+msgid "Organize Images"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:633
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2293
+#: includes/ce/Library.php:633 includes/ce/Library.php:2293
+msgid "Columns count"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:670
+#: includes/ce/Library.php:670
+msgid "Attachment Page"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:705
+#: includes/ce/Library.php:705
+msgid "Posts Slider"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:708
+#: includes/ce/Library.php:708
+msgid "Post types"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:714
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2192
+#: includes/ce/Library.php:714 includes/ce/Library.php:2192
+msgid "Display posts by category slug"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:715
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2193
+#: includes/ce/Library.php:715 includes/ce/Library.php:2193
+msgid ""
+"Separate with ',' to display posts that have either of these categories or "
+"with '+' to display posts that have all of these categories."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:723
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2201
+#: includes/ce/Library.php:723 includes/ce/Library.php:2201
+msgid "Display posts by tag slug"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:724
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2202
+#: includes/ce/Library.php:724 includes/ce/Library.php:2202
+msgid ""
+"Separate with ',' to display posts that have either of these tags or with "
+"'+' to display posts that have all of these tags."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:732
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2210
+#: includes/ce/Library.php:732 includes/ce/Library.php:2210
+msgid "Custom Taxonomy"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:737
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2218
+#: includes/ce/Library.php:737 includes/ce/Library.php:2218
+msgid "Taxonomy field"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:740
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2221
+#: includes/ce/Library.php:740 includes/ce/Library.php:2221
+msgid "Term ID"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:741
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2222
+#: includes/ce/Library.php:741 includes/ce/Library.php:2222
+msgid "Slug"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:742
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2223
+#: includes/ce/Library.php:742 includes/ce/Library.php:2223
+msgid "Name"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:747
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2232
+#: includes/ce/Library.php:747 includes/ce/Library.php:2232
+msgid "Taxonomy term(s)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:749
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2233
+#: includes/ce/Library.php:749 includes/ce/Library.php:2233
+msgid ""
+"Separate with ',' to display posts that have either of these terms or with "
+"'+' to display posts that have all of these tags."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:753
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2241
+#: includes/ce/Library.php:753 includes/ce/Library.php:2241
+msgid "Posts count"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:761
+#: includes/ce/Library.php:761
+msgid "Order by"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:764
+#: includes/ce/Library.php:764
+msgid "ID"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:765
+#: includes/ce/Library.php:765
+msgid "Date"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:766
+#: includes/ce/Library.php:766
+msgid "Author"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:767
+#: includes/ce/Library.php:767
+msgid "Modified"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:768
+#: includes/ce/Library.php:768
+msgid "Random"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:769
+#: includes/ce/Library.php:769
+msgid "Comment count"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:770
+#: includes/ce/Library.php:770
+msgid "Menu order"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:775
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2262
+#: includes/ce/Library.php:775 includes/ce/Library.php:2262
+msgid "Sort order"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:778
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2265
+#: includes/ce/Library.php:778 includes/ce/Library.php:2265
+msgid "Ascending"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:779
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2266
+#: includes/ce/Library.php:779 includes/ce/Library.php:2266
+msgid "Descending"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:784
+#: includes/ce/Library.php:784
+msgid "Post title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:792
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2355
+#: includes/ce/Library.php:792 includes/ce/Library.php:2355
+msgid "Hide"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:797
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2365
+#: includes/ce/Library.php:797 includes/ce/Library.php:2365
+msgid "Post description"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:800
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2368
+#: includes/ce/Library.php:800 includes/ce/Library.php:2368
+msgid "Short"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:802
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2370
+#: includes/ce/Library.php:802 includes/ce/Library.php:2370
+msgid "Excerpt"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:808
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2376
+#: includes/ce/Library.php:808 includes/ce/Library.php:2376
+msgid "Length of the Text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:844
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2871
+#: includes/ce/Library.php:844 includes/ce/Library.php:2871
+msgid "Content style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:848
+#: includes/ce/Library.php:848
+msgid "Image, Title, Text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:850
+#: includes/ce/Library.php:850
+msgid "Title, Image and Text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:851
+#: includes/ce/Library.php:851
+msgid "Title, Text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:856
+#: includes/ce/Library.php:856
+msgid "Image position"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:872
+#: includes/ce/Library.php:872
+msgid "Original post"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:873
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:879
+#: includes/ce/Library.php:873 includes/ce/Library.php:879
+msgid "Custom links"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:881
+#: includes/ce/Library.php:881
+msgid ""
+"Enter links for each slide here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:889
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1553
+#: includes/ce/Library.php:889 includes/ce/Library.php:1553
+msgid "Auto rotate (s)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:897
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1556
+#: includes/ce/Library.php:897 includes/ce/Library.php:1556
+msgid "Disable"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:902
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:963
+#: includes/ce/Library.php:902 includes/ce/Library.php:963
+msgid "Animation type"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:905
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:968
+#: includes/ce/Library.php:905 includes/ce/Library.php:968
+msgid "Slide"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:906
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:967
+#: includes/ce/Library.php:906 includes/ce/Library.php:967
+msgid "Fade"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:911
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:973
+#: includes/ce/Library.php:911 includes/ce/Library.php:973
+msgid "Smooth height"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:913
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:975
+#: includes/ce/Library.php:913 includes/ce/Library.php:975
+msgid ""
+"Animate the height of the slider smoothly for slides of varying height"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:921
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1008
+#: includes/ce/Library.php:921 includes/ce/Library.php:1008
+msgid "Show bullets"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:926
+#: includes/ce/Library.php:926
+msgid "Pause on hover"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:932
+#: includes/ce/Library.php:932
+msgid "Slider"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:935
+#: includes/ce/Library.php:935
+msgid "Edit Slides"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:965
+#: includes/ce/Library.php:965
+msgid "Preview the page to view the animation"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:983
+#: includes/ce/Library.php:983
+msgid "Enable slideshow"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:985
+#: includes/ce/Library.php:985
+msgid "The slideshow will start automatically when the page is loaded"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:989
+#: includes/ce/Library.php:989
+msgid "Slideshow speed in seconds"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1000
+#: includes/ce/Library.php:1000
+msgid "Animation speed in milliseconds"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1025
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1210
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2557
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3291
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3358
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3532
+#: includes/ce/Library.php:1025 includes/ce/Library.php:1210
+#: includes/ce/Library.php:2557 includes/ce/Library.php:3291
+#: includes/ce/Library.php:3358 includes/ce/Library.php:3532
+msgid "Text on the button"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1026
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1083
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1194
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2562
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2567
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2581
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3288
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3292
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3346
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3363
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3533
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4108
+#: includes/ce/Library.php:1026 includes/ce/Library.php:1083
+#: includes/ce/Library.php:1194 includes/ce/Library.php:2562
+#: includes/ce/Library.php:2567 includes/ce/Library.php:2581
+#: includes/ce/Library.php:3288 includes/ce/Library.php:3292
+#: includes/ce/Library.php:3346 includes/ce/Library.php:3363
+#: includes/ce/Library.php:3533 includes/ce/Library.php:4108
+msgid "Button"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1030
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1355
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3296
+#: includes/ce/Library.php:1030 includes/ce/Library.php:1355
+#: includes/ce/Library.php:3296
+msgid "Link"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1032
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3298
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3543
+#: includes/ce/Library.php:1032 includes/ce/Library.php:3298
+#: includes/ce/Library.php:3543
+msgid "ex. http://yoursite.com/ or /blog"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1041
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1215
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1257
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1260
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1604
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2581
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2587
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2895
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3215
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3252
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3336
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3678
+#: includes/ce/Library.php:1041 includes/ce/Library.php:1215
+#: includes/ce/Library.php:1257 includes/ce/Library.php:1260
+#: includes/ce/Library.php:1604 includes/ce/Library.php:2581
+#: includes/ce/Library.php:2587 includes/ce/Library.php:2895
+#: includes/ce/Library.php:3215 includes/ce/Library.php:3252
+#: includes/ce/Library.php:3336 includes/ce/Library.php:3678
+msgid "Icon"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1047
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1221
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1297
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2587
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3422
+#: includes/ce/Library.php:1047 includes/ce/Library.php:1221
+#: includes/ce/Library.php:1297 includes/ce/Library.php:2587
+#: includes/ce/Library.php:3422
+msgid "Icon alignment"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1060
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1234
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2562
+#: includes/ce/Library.php:1060 includes/ce/Library.php:1234
+#: includes/ce/Library.php:2562
+msgid "Stretch"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1087
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2450
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3142
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3307
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3588
+#: includes/ce/Library.php:1087 includes/ce/Library.php:2450
+#: includes/ce/Library.php:3142 includes/ce/Library.php:3307
+#: includes/ce/Library.php:3588
+msgid "Button color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1091
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1651
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2454
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2938
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3145
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3311
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3591
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3691
+#: includes/ce/Library.php:1091 includes/ce/Library.php:1651
+#: includes/ce/Library.php:2454 includes/ce/Library.php:2938
+#: includes/ce/Library.php:3145 includes/ce/Library.php:3311
+#: includes/ce/Library.php:3591 includes/ce/Library.php:3691
+msgid "Silver"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1095
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1641
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2455
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2939
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3146
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3312
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3592
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3692
+#: includes/ce/Library.php:1095 includes/ce/Library.php:1641
+#: includes/ce/Library.php:2455 includes/ce/Library.php:2939
+#: includes/ce/Library.php:3146 includes/ce/Library.php:3312
+#: includes/ce/Library.php:3592 includes/ce/Library.php:3692
+msgid "Red"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1099
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1642
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2456
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2940
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3147
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3313
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3593
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3693
+#: includes/ce/Library.php:1099 includes/ce/Library.php:1642
+#: includes/ce/Library.php:2456 includes/ce/Library.php:2940
+#: includes/ce/Library.php:3147 includes/ce/Library.php:3313
+#: includes/ce/Library.php:3593 includes/ce/Library.php:3693
+msgid "Pink Dreams"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1103
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1643
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2457
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2941
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3148
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3314
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3594
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3694
+#: includes/ce/Library.php:1103 includes/ce/Library.php:1643
+#: includes/ce/Library.php:2457 includes/ce/Library.php:2941
+#: includes/ce/Library.php:3148 includes/ce/Library.php:3314
+#: includes/ce/Library.php:3594 includes/ce/Library.php:3694
+msgid "Warm"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1107
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1644
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2458
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2942
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3149
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3315
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3595
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3695
+#: includes/ce/Library.php:1107 includes/ce/Library.php:1644
+#: includes/ce/Library.php:2458 includes/ce/Library.php:2942
+#: includes/ce/Library.php:3149 includes/ce/Library.php:3315
+#: includes/ce/Library.php:3595 includes/ce/Library.php:3695
+msgid "Hot Summer"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1111
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1645
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2459
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2943
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3150
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3316
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3596
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3696
+#: includes/ce/Library.php:1111 includes/ce/Library.php:1645
+#: includes/ce/Library.php:2459 includes/ce/Library.php:2943
+#: includes/ce/Library.php:3150 includes/ce/Library.php:3316
+#: includes/ce/Library.php:3596 includes/ce/Library.php:3696
+msgid "Olive Garden"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1115
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1646
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2460
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2944
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3151
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3317
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3597
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3697
+#: includes/ce/Library.php:1115 includes/ce/Library.php:1646
+#: includes/ce/Library.php:2460 includes/ce/Library.php:2944
+#: includes/ce/Library.php:3151 includes/ce/Library.php:3317
+#: includes/ce/Library.php:3597 includes/ce/Library.php:3697
+msgid "Green Grass"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1119
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1647
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2461
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2945
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3152
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3318
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3598
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3698
+#: includes/ce/Library.php:1119 includes/ce/Library.php:1647
+#: includes/ce/Library.php:2461 includes/ce/Library.php:2945
+#: includes/ce/Library.php:3152 includes/ce/Library.php:3318
+#: includes/ce/Library.php:3598 includes/ce/Library.php:3698
+msgid "Skyline"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1123
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1648
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2462
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2946
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3153
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3319
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3599
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3699
+#: includes/ce/Library.php:1123 includes/ce/Library.php:1648
+#: includes/ce/Library.php:2462 includes/ce/Library.php:2946
+#: includes/ce/Library.php:3153 includes/ce/Library.php:3319
+#: includes/ce/Library.php:3599 includes/ce/Library.php:3699
+msgid "Aqua Blue"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1127
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1649
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2463
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2947
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3154
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3320
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3600
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3700
+#: includes/ce/Library.php:1127 includes/ce/Library.php:1649
+#: includes/ce/Library.php:2463 includes/ce/Library.php:2947
+#: includes/ce/Library.php:3154 includes/ce/Library.php:3320
+#: includes/ce/Library.php:3600 includes/ce/Library.php:3700
+msgid "Violet"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1131
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1650
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2464
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2948
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3155
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3321
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3601
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3701
+#: includes/ce/Library.php:1131 includes/ce/Library.php:1650
+#: includes/ce/Library.php:2464 includes/ce/Library.php:2948
+#: includes/ce/Library.php:3155 includes/ce/Library.php:3321
+#: includes/ce/Library.php:3601 includes/ce/Library.php:3701
+msgid "Dark Grey"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1135
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1640
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2465
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2949
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3156
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3322
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3602
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3702
+#: includes/ce/Library.php:1135 includes/ce/Library.php:1640
+#: includes/ce/Library.php:2465 includes/ce/Library.php:2949
+#: includes/ce/Library.php:3156 includes/ce/Library.php:3322
+#: includes/ce/Library.php:3602 includes/ce/Library.php:3702
+msgid "Black"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1140
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1271
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1741
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1847
+#: includes/ce/Library.php:1140 includes/ce/Library.php:1271
+#: includes/ce/Library.php:1741 includes/ce/Library.php:1847
+msgid "Size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1144
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1165
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1274
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2908
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3414
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3434
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3614
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3724
+#: includes/ce/Library.php:1144 includes/ce/Library.php:1165
+#: includes/ce/Library.php:1274 includes/ce/Library.php:2908
+#: includes/ce/Library.php:3414 includes/ce/Library.php:3434
+#: includes/ce/Library.php:3614 includes/ce/Library.php:3724
+msgid "Mini"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1148
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1169
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1275
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2909
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3415
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3435
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3615
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3725
+#: includes/ce/Library.php:1148 includes/ce/Library.php:1169
+#: includes/ce/Library.php:1275 includes/ce/Library.php:2909
+#: includes/ce/Library.php:3415 includes/ce/Library.php:3435
+#: includes/ce/Library.php:3615 includes/ce/Library.php:3725
+msgid "Small"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1152
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1173
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1276
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1745
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1851
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3416
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3436
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3616
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:33
+#: includes/ce/Library.php:1152 includes/ce/Library.php:1173
+#: includes/ce/Library.php:1276 includes/ce/Library.php:1745
+#: includes/ce/Library.php:1851 includes/ce/Library.php:3416
+#: includes/ce/Library.php:3436 includes/ce/Library.php:3616
+#: includes/jsTranslations.php:33
+msgid "Middle"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1161
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1165
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1169
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1173
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1177
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3431
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3434
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3435
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3436
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3437
+#: includes/ce/Library.php:1161 includes/ce/Library.php:1165
+#: includes/ce/Library.php:1169 includes/ce/Library.php:1173
+#: includes/ce/Library.php:1177 includes/ce/Library.php:3431
+#: includes/ce/Library.php:3434 includes/ce/Library.php:3435
+#: includes/ce/Library.php:3436 includes/ce/Library.php:3437
+msgid "Icon indent"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1183
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1313
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1762
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1868
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3018
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3476
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3578
+#: includes/ce/Library.php:1183 includes/ce/Library.php:1313
+#: includes/ce/Library.php:1762 includes/ce/Library.php:1868
+#: includes/ce/Library.php:3018 includes/ce/Library.php:3476
+#: includes/ce/Library.php:3578
+msgid "Rounded"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1200
+#: includes/ce/Library.php:1200
+msgid "Download Button"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1205
+#: includes/ce/Library.php:1205
+msgid "Select file from Media Library"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1266
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1636
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2935
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3271
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3688
+#: includes/ce/Library.php:1266 includes/ce/Library.php:1636
+#: includes/ce/Library.php:2935 includes/ce/Library.php:3271
+#: includes/ce/Library.php:3688
+msgid "Icon color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1278
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2912
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3728
+#: includes/ce/Library.php:1278 includes/ce/Library.php:2912
+#: includes/ce/Library.php:3728
+msgid "Extra Large"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1284
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1623
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2922
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3738
+#: includes/ce/Library.php:1284 includes/ce/Library.php:1623
+#: includes/ce/Library.php:2922 includes/ce/Library.php:3738
+msgid "Icon custom size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1285
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1624
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2923
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3739
+#: includes/ce/Library.php:1285 includes/ce/Library.php:1624
+#: includes/ce/Library.php:2923 includes/ce/Library.php:3739
+msgid "Font size in px"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1307
+#: includes/ce/Library.php:1307
+msgid "Background shape"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1311
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3019
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3216
+#: includes/ce/Library.php:1311 includes/ce/Library.php:3019
+#: includes/ce/Library.php:3216
+msgid "Circle"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1312
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3017
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3218
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3475
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3577
+#: includes/ce/Library.php:1312 includes/ce/Library.php:3017
+#: includes/ce/Library.php:3218 includes/ce/Library.php:3475
+#: includes/ce/Library.php:3577
+msgid "Square"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1314
+#: includes/ce/Library.php:1314
+msgid "Outline Circle"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1315
+#: includes/ce/Library.php:1315
+msgid "Outline Square"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1316
+#: includes/ce/Library.php:1316
+msgid "Outline Rounded"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1321
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3028
+#: includes/ce/Library.php:1321 includes/ce/Library.php:3028
+msgid "Icon background size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1333
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3040
+#: includes/ce/Library.php:1333 includes/ce/Library.php:3040
+msgid "Icon background color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1342
+#: includes/ce/Library.php:1342
+msgid "Appearance effect"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1346
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3653
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3764
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3781
+#: includes/ce/Library.php:1346 includes/ce/Library.php:3653
+#: includes/ce/Library.php:3764 includes/ce/Library.php:3781
+msgid "Top to bottom"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1347
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3654
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3765
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3782
+#: includes/ce/Library.php:1347 includes/ce/Library.php:3654
+#: includes/ce/Library.php:3765 includes/ce/Library.php:3782
+msgid "Bottom to top"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1348
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3655
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3766
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3783
+#: includes/ce/Library.php:1348 includes/ce/Library.php:3655
+#: includes/ce/Library.php:3766 includes/ce/Library.php:3783
+msgid "Left to right"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1349
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3656
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3767
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3784
+#: includes/ce/Library.php:1349 includes/ce/Library.php:3656
+#: includes/ce/Library.php:3767 includes/ce/Library.php:3784
+msgid "Right to left"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1350
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3657
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3768
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3785
+#: includes/ce/Library.php:1350 includes/ce/Library.php:3657
+#: includes/ce/Library.php:3768 includes/ce/Library.php:3785
+msgid "Appear"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1366
+#: includes/ce/Library.php:1366
+msgid "Countdown Timer"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1372
+#: includes/ce/Library.php:1372
+msgid "Expiration Date"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1377
+#: includes/ce/Library.php:1377
+msgid "Time zone"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1380
+#: includes/ce/Library.php:1380
+msgid "Server time"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1381
+#: includes/ce/Library.php:1381
+msgid "User's local time"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1386
+#: includes/ce/Library.php:1386
+msgid "Format"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1388
+#: includes/ce/Library.php:1388
+msgid ""
+"Use 'Y' for years, 'O' for months, 'W' for weeks, 'D' for days, 'H' for "
+"hours, 'M' for minutes, 'S' for seconds. Upper-case characters for "
+"required fields and lower-case characters for display only if non-zero."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1392
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3494
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:19
+#: includes/ce/Library.php:1392 includes/ce/Library.php:3494
+#: includes/jsTranslations.php:19
+msgid "Background Color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1397
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3503
+#: includes/ce/Library.php:1397 includes/ce/Library.php:3503
+msgid "Text Color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1402
+#: includes/ce/Library.php:1402
+msgid "Block size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1410
+#: includes/ce/Library.php:1410
+msgid "Digits size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1418
+#: includes/ce/Library.php:1418
+msgid "Text size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1426
+#: includes/ce/Library.php:1426
+msgid "Spacing"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1436
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1447
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1470
+#: includes/ce/Library.php:1436 includes/ce/Library.php:1447
+#: includes/ce/Library.php:1470
+msgid "Accordion"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1442
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1494
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1495
+#: includes/ce/Library.php:1442 includes/ce/Library.php:1494
+#: includes/ce/Library.php:1495
+msgid "Section title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1447
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1524
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3363
+#: includes/ce/Library.php:1447 includes/ce/Library.php:1524
+#: includes/ce/Library.php:3363
+#, php-format
+msgid "Add new %s item"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1474
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1754
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1860
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2144
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2529
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2728
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3211
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3482
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:14
+#: includes/ce/Library.php:1474 includes/ce/Library.php:1754
+#: includes/ce/Library.php:1860 includes/ce/Library.php:2144
+#: includes/ce/Library.php:2529 includes/ce/Library.php:2728
+#: includes/ce/Library.php:3211 includes/ce/Library.php:3482
+#: includes/jsTranslations.php:14
+msgid "Style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1478
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2149
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2533
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2732
+#: includes/ce/Library.php:1478 includes/ce/Library.php:2149
+#: includes/ce/Library.php:2533 includes/ce/Library.php:2732
+msgid "Light"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1482
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2532
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2731
+#: includes/ce/Library.php:1482 includes/ce/Library.php:2532
+#: includes/ce/Library.php:2731
+msgid "Dark"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1491
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1508
+#: includes/ce/Library.php:1491 includes/ce/Library.php:1508
+msgid "Accordion Section"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1499
+#: includes/ce/Library.php:1499
+msgid "Section content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1500
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1598
+#: !zip/motopress-content-editor-lite/includes/ce/templates/callToAction.php:2
+#: !zip/motopress-content-editor-lite/includes/ce/templates/description.php:2
+#: !zip/motopress-content-editor-lite/includes/ce/templates/feature.php:2
+#: !zip/motopress-content-editor-lite/includes/ce/templates/landing.php:2
+#: !zip/motopress-content-editor-lite/includes/ce/templates/product.php:2
+#: !zip/motopress-content-editor-lite/includes/ce/templates/service.php:2
+#: includes/ce/Library.php:1500 includes/ce/Library.php:1598
+#: includes/ce/templates/callToAction.php:2
+#: includes/ce/templates/description.php:2
+#: includes/ce/templates/feature.php:2 includes/ce/templates/landing.php:2
+#: includes/ce/templates/product.php:2 includes/ce/templates/service.php:2
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu hendrerit "
+"nunc. Proin tempus pulvinar augue, quis ultrices urna consectetur non."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1501
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1599
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2062
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3094
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3114
+#: includes/ce/Library.php:1501 includes/ce/Library.php:1599
+#: includes/ce/Library.php:2062 includes/ce/Library.php:3094
+#: includes/ce/Library.php:3114
+msgid "Open in WordPress Editor"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1506
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1718
+#: includes/ce/Library.php:1506 includes/ce/Library.php:1718
+msgid "Active"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1508
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1720
+#: includes/ce/Library.php:1508 includes/ce/Library.php:1720
+#, php-format
+msgid "Only one %s can be active at a time"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1513
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1568
+#: includes/ce/Library.php:1513 includes/ce/Library.php:1568
+msgid "Tabs"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1519
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1592
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1593
+#: includes/ce/Library.php:1519 includes/ce/Library.php:1592
+#: includes/ce/Library.php:1593
+msgid "Tab title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1524
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1585
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1720
+#: includes/ce/Library.php:1524 includes/ce/Library.php:1585
+#: includes/ce/Library.php:1720
+msgid "Tab"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1540
+#: includes/ce/Library.php:1540
+msgid "Space between borders and tab content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1548
+#: includes/ce/Library.php:1548
+msgid "Vertical Tabs"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1572
+#: includes/ce/Library.php:1572
+msgid "Navigation"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1576
+#: includes/ce/Library.php:1576
+msgid "Full width navigation"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1597
+#: includes/ce/Library.php:1597
+msgid "Tab content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1610
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2905
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3721
+#: includes/ce/Library.php:1610 includes/ce/Library.php:2905
+#: includes/ce/Library.php:3721
+msgid "Icon size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1639
+#: includes/ce/Library.php:1639
+msgid "Inherit"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1661
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2959
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3712
+#: includes/ce/Library.php:1661 includes/ce/Library.php:2959
+#: includes/ce/Library.php:3712
+msgid "Icon custom color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1670
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3049
+#: includes/ce/Library.php:1670 includes/ce/Library.php:3049
+msgid "Icon margin Left"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1682
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3057
+#: includes/ce/Library.php:1682 includes/ce/Library.php:3057
+msgid "Icon margin Right"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1694
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3065
+#: includes/ce/Library.php:1694 includes/ce/Library.php:3065
+msgid "Icon margin Top"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1706
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3073
+#: includes/ce/Library.php:1706 includes/ce/Library.php:3073
+msgid "Icon margin Bottom"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1725
+#: includes/ce/Library.php:1725
+msgid "Social Share Buttons"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1758
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1864
+#: includes/ce/Library.php:1758 includes/ce/Library.php:1864
+msgid "Plain"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1766
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1872
+#: includes/ce/Library.php:1766 includes/ce/Library.php:1872
+msgid "Circular"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1770
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1876
+#: includes/ce/Library.php:1770 includes/ce/Library.php:1876
+msgid "Volume"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1780
+#: includes/ce/Library.php:1780
+msgid "Social Buttons"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1783
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1788
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1793
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1798
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1803
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1807
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1811
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1815
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1819
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1824
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1829
+#: includes/ce/Library.php:1783 includes/ce/Library.php:1788
+#: includes/ce/Library.php:1793 includes/ce/Library.php:1798
+#: includes/ce/Library.php:1803 includes/ce/Library.php:1807
+#: includes/ce/Library.php:1811 includes/ce/Library.php:1815
+#: includes/ce/Library.php:1819 includes/ce/Library.php:1824
+#: includes/ce/Library.php:1829
+#, php-format
+msgid "%s URL"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1890
+#: includes/ce/Library.php:1890
+msgid "Video URL"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1892
+#: includes/ce/Library.php:1892
+msgid "Paste the URL of a video (Vimeo or YouTube) you'd like to embed"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1908
+#: includes/ce/Library.php:1908
+msgid "Audio"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1911
+#: includes/ce/Library.php:1911
+msgid "Audio source"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1912
+#: includes/ce/Library.php:1912
+msgid ""
+"If your current browser does not support HTML5 audio or Flash Player is "
+"not installed, a direct download link will be displayed instead of the "
+"player"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1914
+#: includes/ce/Library.php:1914
+msgid "Media Library"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1915
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1931
+#: includes/ce/Library.php:1915 includes/ce/Library.php:1931
+msgid "Audio file URL"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1921
+#: includes/ce/Library.php:1921
+msgid "Audio File"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1922
+#: includes/ce/Library.php:1922
+msgid "Select audio file from Media Library"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1932
+#: includes/ce/Library.php:1932
+msgid "Supported formats: .mp3, .m4a, .ogg, .wav"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1941
+#: includes/ce/Library.php:1941
+msgid "Autoplay"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1942
+#: includes/ce/Library.php:1942
+msgid "Play file automatically when page is loaded"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1948
+#: includes/ce/Library.php:1948
+msgid "Repeat when playback is ended"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1954
+#: includes/ce/Library.php:1954
+msgid "Google Maps"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1957
+#: includes/ce/Library.php:1957
+msgid "Address"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1959
+#: includes/ce/Library.php:1959
+msgid ""
+"To find a specific address or location, just enter what you're looking for "
+"and press Enter"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1963
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3086
+#: includes/ce/Library.php:1963 includes/ce/Library.php:3086
+msgid "Zoom"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1970
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1990
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2118
+#: includes/ce/Library.php:1970 includes/ce/Library.php:1990
+#: includes/ce/Library.php:2118
+msgid "Min Height"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:1987
+#: includes/ce/Library.php:1987
+msgid "Space"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2007
+#: includes/ce/Library.php:2007
+msgid "Embed"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2010
+#: includes/ce/Library.php:2010
+msgid "Paste HTML code"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2012
+#: includes/ce/Library.php:2012
+msgid ""
+"Note: Most &lt;script&gt; embeds will only appear on the published site. "
+"We recommend using &lt;iframe&gt; based embed code"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2016
+#: includes/ce/Library.php:2016
+msgid "Fill available space"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2018
+#: includes/ce/Library.php:2018
+msgid "Expand object to fill available width and height"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2023
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2026
+#: includes/ce/Library.php:2023 includes/ce/Library.php:2026
+msgid "Quote"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2031
+#: includes/ce/Library.php:2031
+msgid "Cite"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2033
+#: includes/ce/Library.php:2033
+msgid "Text representation of the source"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2037
+#: includes/ce/Library.php:2037
+msgid "Cite URL"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2039
+#: includes/ce/Library.php:2039
+msgid "URL for the source of the quotation"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2045
+#: includes/ce/Library.php:2045
+msgid "Members Content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2048
+#: includes/ce/Library.php:2048
+msgid "Message for not logged in users"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2049
+#: includes/ce/Library.php:2049
+msgid "This content is for registered users only. Please %login%."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2050
+#: includes/ce/Library.php:2050
+msgid "This message will see not logged in users"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2054
+#: includes/ce/Library.php:2054
+msgid "Login link text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2055
+#: includes/ce/Library.php:2055
+msgid "login"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2056
+#: includes/ce/Library.php:2056
+msgid "Text for the login link"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2060
+#: includes/ce/Library.php:2060
+msgid "Content for logged in users"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2061
+#: includes/ce/Library.php:2061
+msgid "Only registered users will see this content."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2068
+#: includes/ce/Library.php:2068
+msgid "Chart"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2076
+#: includes/ce/Library.php:2076
+msgid "Chart type"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2077
+#: includes/ce/Library.php:2077
+msgid ""
+"Find out more about chart types at <a href='https://developers.google.com/"
+"chart/' target='_blank'>Google Charts</a>"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2080
+#: includes/ce/Library.php:2080
+msgid "Column Chart"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2081
+#: includes/ce/Library.php:2081
+msgid "Bar Chart"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2082
+#: includes/ce/Library.php:2082
+msgid "Area Chart"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2083
+#: includes/ce/Library.php:2083
+msgid "Stepped Area Chart"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2084
+#: includes/ce/Library.php:2084
+msgid "Pie Chart"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2085
+#: includes/ce/Library.php:2085
+msgid "3D Pie Chart"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2086
+#: includes/ce/Library.php:2086
+msgid "Line Chart"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2087
+#: includes/ce/Library.php:2087
+msgid "Histogram"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2092
+#: includes/ce/Library.php:2092
+msgid "Donut Hole"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2101
+#: includes/ce/Library.php:2101
+msgid "Chart colors"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2102
+#: includes/ce/Library.php:2102
+msgid "Comma separated HEX color values. Ex: #e0440e, #e6693e"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2106
+#: includes/ce/Library.php:2106
+msgid "Transparent background"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2111
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2130
+#: includes/ce/Library.php:2111 includes/ce/Library.php:2130
+msgid "Data"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2112
+#: includes/ce/Library.php:2112
+msgid "Data in each row separated by comma"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2127
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2140
+#: includes/ce/Library.php:2127 includes/ce/Library.php:2140
+msgid "Table"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2132
+#: includes/ce/Library.php:2132
+msgid ""
+"Data in each row separated by comma. Find out more about <a href='http://"
+"en.wikipedia.org/wiki/Comma-separated_values' target='_blank'>CSV format</"
+"a>."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2153
+#: includes/ce/Library.php:2153
+msgid "First column left"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2168
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2513
+#: includes/ce/Library.php:2168 includes/ce/Library.php:2513
+msgid "Posts Grid"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2171
+#: includes/ce/Library.php:2171
+msgid "Query Type"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2172
+#: includes/ce/Library.php:2172
+msgid "Choose query type"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2175
+#: includes/ce/Library.php:2175
+msgid "Simple"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2176
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2275
+#: includes/ce/Library.php:2176 includes/ce/Library.php:2275
+msgid "Custom query"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2177
+#: includes/ce/Library.php:2177
+msgid "IDs"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2182
+#: includes/ce/Library.php:2182
+msgid "Post Type to show"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2183
+#: includes/ce/Library.php:2183
+msgid "Select post type to populate posts from"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2276
+#: includes/ce/Library.php:2276
+msgid ""
+"Build custom query according to <a href=\"http://codex.wordpress.org/"
+"Function_Reference/query_posts\">WordPress Codex</a>. Example: "
+"post_type=portfolio&posts_per_page=5&orderby=title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2284
+#: includes/ce/Library.php:2284
+msgid "IDs of posts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2285
+#: includes/ce/Library.php:2285
+msgid "Separate with ','"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2305
+#: includes/ce/Library.php:2305
+msgid "Post Style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2310
+#: includes/ce/Library.php:2310
+msgid "Vertical gap between posts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2318
+#: includes/ce/Library.php:2318
+msgid "Show Featured Image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2347
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3099
+#: includes/ce/Library.php:2347 includes/ce/Library.php:3099
+msgid "Title style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2360
+#: includes/ce/Library.php:2360
+msgid "Show Date and Comments"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2388
+#: includes/ce/Library.php:2388
+msgid "Post Read More link text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2389
+#: includes/ce/Library.php:2389
+msgid "Read more"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2393
+#: includes/ce/Library.php:2393
+msgid "Display Style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2396
+#: includes/ce/Library.php:2396
+msgid "Show All"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2397
+#: includes/ce/Library.php:2397
+msgid "Load More Button"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2398
+#: includes/ce/Library.php:2398
+msgid "Pagination"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2403
+#: includes/ce/Library.php:2403
+msgid "Load More button text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2404
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeAtts.php:497
+#: includes/ce/Library.php:2404 includes/ce/shortcode/ShortcodeAtts.php:497
+msgid "Load More"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2412
+#: includes/ce/Library.php:2412
+msgid "Filter"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2413
+#: includes/ce/Library.php:2413
+msgid "Add taxonomy filter."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2417
+#: includes/ce/Library.php:2417
+msgid "First Taxonomy"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2418
+#: includes/ce/Library.php:2418
+msgid "Second Taxonomy"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2419
+#: includes/ce/Library.php:2419
+msgid "Both"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2428
+#: includes/ce/Library.php:2428
+msgid "Select First Taxonomy"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2439
+#: includes/ce/Library.php:2439
+msgid "Select Second Taxonomy"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2474
+#: includes/ce/Library.php:2474
+msgid "Divider"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2483
+#: includes/ce/Library.php:2483
+msgid "First Filter Title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2484
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3882
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3886
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4079
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:751
+#: _old/motopress-content-editor-lite/includes/ce/Library.php:2658
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:782
+#: _old/motopress-content-editor/includes/ce/Library.php:2608
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3310
+#: includes/ce/Library.php:2484 includes/ce/Library.php:3882
+#: includes/ce/Library.php:3886 includes/ce/Library.php:4079
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:751
+msgid "Categories"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2492
+#: includes/ce/Library.php:2492
+msgid "Second Filter Title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2493
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4069
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4078
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeAtts.php:345
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:751
+#: _old/motopress-content-editor-lite/includes/ce/Library.php:2667
+#: _old/motopress-content-editor-lite/includes/ce/Shortcode.php:2077
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:782
+#: _old/motopress-content-editor/includes/ce/Library.php:2617
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:2034
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3325
+#: includes/ce/Library.php:2493 includes/ce/Library.php:4069
+#: includes/ce/Library.php:4078 includes/ce/shortcode/ShortcodeAtts.php:345
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:751
+msgid "Tags"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2501
+#: includes/ce/Library.php:2501
+msgid "\"View All\" text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2502
+#: _old/motopress-content-editor-lite/includes/ce/Library.php:2676
+#: _old/motopress-content-editor/includes/ce/Library.php:2626
+#: includes/ce/Library.php:2502
+msgid "All"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2519
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2523
+#: includes/ce/Library.php:2519 includes/ce/Library.php:2523
+msgid "Modal"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2522
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2707
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3112
+#: includes/ce/Library.php:2522 includes/ce/Library.php:2707
+#: includes/ce/Library.php:3112
+msgid "Content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2524
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2709
+#: includes/ce/Library.php:2524 includes/ce/Library.php:2709
+msgid ""
+"<h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</"
+"h1><p>Integer ac leo ut arcu dictum viverra at eu magna. Integer ut eros "
+"varius, ornare magna non, malesuada nunc. Nulla elementum fringilla libero "
+"vitae luctus. Phasellus tincidunt nulla erat, in consectetur ante ornare "
+"tempor. Curabitur egestas purus ac gravida malesuada. Vestibulum sit amet "
+"rhoncus nisi. Quisque porta enim eget nisi luctus accumsan. Interdum et "
+"malesuada fames ac ante ipsum primis in faucibus.</p>"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2539
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2738
+#: includes/ce/Library.php:2539 includes/ce/Library.php:2738
+msgid "Background color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2548
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2747
+#: includes/ce/Library.php:2548 includes/ce/Library.php:2747
+msgid "Box color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2600
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2756
+#: includes/ce/Library.php:2600 includes/ce/Library.php:2756
+msgid "Show animation"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2649
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2805
+#: includes/ce/Library.php:2649 includes/ce/Library.php:2805
+msgid "Hide animation"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2704
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2708
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2858
+#: includes/ce/Library.php:2704 includes/ce/Library.php:2708
+#: includes/ce/Library.php:2858
+msgid "Splash Screen"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2714
+#: includes/ce/Library.php:2714
+msgid "Delay in milliseconds"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2719
+#: includes/ce/Library.php:2719
+msgid "Display"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2721
+#: includes/ce/Library.php:2721
+msgid "Always"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2722
+#: includes/ce/Library.php:2722
+msgid "Once"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2868
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3202
+#: includes/ce/Library.php:2868 includes/ce/Library.php:3202
+msgid "Service Box"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2874
+#: includes/ce/Library.php:2874
+msgid "Centered"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2875
+#: includes/ce/Library.php:2875
+msgid "Title align right"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2876
+#: includes/ce/Library.php:2876
+msgid "Title & text align right"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2885
+#: includes/ce/Library.php:2885
+msgid "Media type"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2888
+#: includes/ce/Library.php:2888
+msgid "Font Icon"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2889
+#: includes/ce/Library.php:2889
+msgid "Image Icon"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2890
+#: includes/ce/Library.php:2890
+msgid "Wide Image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2968
+#: includes/ce/Library.php:2968
+msgid "Icon image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2977
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2991
+#: includes/ce/Library.php:2977 includes/ce/Library.php:2991
+msgid "Icon image size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:2992
+#: includes/ce/Library.php:2992
+msgid ""
+"Image size in pixels, ex. 50x50 or theme-registered image size. Note: the "
+"closest-sized image will be used if original one does not exist."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3001
+#: includes/ce/Library.php:3001
+msgid "Image height"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3013
+#: includes/ce/Library.php:3013
+msgid "Icon background"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3081
+#: includes/ce/Library.php:3081
+msgid "Icon effect"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3085
+#: includes/ce/Library.php:3085
+msgid "Grayscale"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3087
+#: includes/ce/Library.php:3087
+msgid "Rotate"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3119
+#: includes/ce/Library.php:3119
+msgid "Show button"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3124
+#: includes/ce/Library.php:3124
+msgid "Button text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3133
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3541
+#: includes/ce/Library.php:3133 includes/ce/Library.php:3541
+msgid "Button link"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3166
+#: includes/ce/Library.php:3166
+msgid "Button background color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3175
+#: includes/ce/Library.php:3175
+msgid "Button text color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3208
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3283
+#: includes/ce/Library.php:3208 includes/ce/Library.php:3283
+msgid "List"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3217
+#: includes/ce/Library.php:3217
+msgid "Disc"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3219
+#: includes/ce/Library.php:3219
+msgid "Armenian"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3220
+#: includes/ce/Library.php:3220
+msgid "Georgian"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3232
+#: includes/ce/Library.php:3232
+msgid "List elements"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3238
+#: includes/ce/Library.php:3238
+msgid "Custom text color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3243
+#: includes/ce/Library.php:3243
+msgid "Text color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3262
+#: includes/ce/Library.php:3262
+msgid "Custom icon color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3327
+#: includes/ce/Library.php:3327
+msgid "Custom button color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3352
+#: includes/ce/Library.php:3352
+msgid "Button Group"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3389
+#: includes/ce/Library.php:3389
+msgid "Layout"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3392
+#: includes/ce/Library.php:3392
+msgid "Horizontal"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3393
+#: includes/ce/Library.php:3393
+msgid "Vertical"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3398
+#: includes/ce/Library.php:3398
+msgid "Indent"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3411
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3611
+#: includes/ce/Library.php:3411 includes/ce/Library.php:3611
+msgid "Buttons size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3443
+#: includes/ce/Library.php:3443
+msgid "Call To Action"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3451
+#: includes/ce/Library.php:3451
+msgid "Subtitle"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3456
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4094
+#: includes/ce/Library.php:3456 includes/ce/Library.php:4094
+msgid "Text"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3461
+#: includes/ce/Library.php:3461
+msgid "Text alignment"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3467
+#: includes/ce/Library.php:3467
+msgid "Justify"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3472
+#: includes/ce/Library.php:3472
+msgid "Shape"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3477
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3579
+#: includes/ce/Library.php:3477 includes/ce/Library.php:3579
+msgid "Round"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3485
+#: includes/ce/Library.php:3485
+msgid "Classic"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3486
+#: includes/ce/Library.php:3486
+msgid "Flat"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3487
+#: includes/ce/Library.php:3487
+msgid "Outline"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3488
+#: includes/ce/Library.php:3488
+msgid "3D"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3512
+#: includes/ce/Library.php:3512
+msgid "Width (%)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3520
+#: includes/ce/Library.php:3520
+msgid "Button position"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3524
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3670
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:34
+#: includes/ce/Library.php:3524 includes/ce/Library.php:3670
+#: includes/jsTranslations.php:34
+msgid "Top"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3525
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3671
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:35
+#: includes/ce/Library.php:3525 includes/ce/Library.php:3671
+#: includes/jsTranslations.php:35
+msgid "Bottom"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3560
+#: includes/ce/Library.php:3560
+msgid "Button alignment"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3574
+#: includes/ce/Library.php:3574
+msgid "Button shape"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3626
+#: includes/ce/Library.php:3626
+msgid "Button icon"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3636
+#: includes/ce/Library.php:3636
+msgid "Button icon alignment"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3649
+#: includes/ce/Library.php:3649
+msgid "Button animation"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3666
+#: includes/ce/Library.php:3666
+msgid "Icon position"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3751
+#: includes/ce/Library.php:3751
+msgid "Place icon on border"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3760
+#: includes/ce/Library.php:3760
+msgid "Icon animation"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3777
+#: includes/ce/Library.php:3777
+msgid "Effect of appearance"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3805
+#: includes/ce/Library.php:3805
+msgid "MotoPress Slider"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3808
+#: includes/ce/Library.php:3808
+msgid "Select slider"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3809
+#: includes/ce/Library.php:3809
+msgid "Select slider from the list of sliders you created for this website."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3811
+#: includes/ce/Library.php:3811
+msgid "- select -"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3831
+#: includes/ce/Library.php:3831
+msgid "There are no sidebars"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3833
+#: includes/ce/Library.php:3833
+msgid "Widgets Area"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3838
+#: includes/ce/Library.php:3838
+msgid "Use this widget to add one of your Widget Areas."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3842
+#: includes/ce/Library.php:3842
+msgid "Select Area"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3850
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3854
+#: includes/ce/Library.php:3850 includes/ce/Library.php:3854
+msgid "Archives"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3855
+#: includes/ce/Library.php:3855
+msgid "A monthly archive of your site posts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3859
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3891
+#: includes/ce/Library.php:3859 includes/ce/Library.php:3891
+msgid "Display as dropdown"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3865
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3897
+#: includes/ce/Library.php:3865 includes/ce/Library.php:3897
+msgid "Show post counts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3872
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3876
+#: includes/ce/Library.php:3872 includes/ce/Library.php:3876
+msgid "Calendar"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3877
+#: includes/ce/Library.php:3877
+msgid "A calendar of your site posts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3887
+#: includes/ce/Library.php:3887
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3903
+#: includes/ce/Library.php:3903
+msgid "Show hierarchy"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3920
+#: includes/ce/Library.php:3920
+msgid "There are no menus"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3922
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3926
+#: includes/ce/Library.php:3922 includes/ce/Library.php:3926
+msgid "Custom Menu"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3927
+#: includes/ce/Library.php:3927
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3931
+#: includes/ce/Library.php:3931
+msgid "Select Menu"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3939
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3943
+#: includes/ce/Library.php:3939 includes/ce/Library.php:3943
+msgid "Meta"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3944
+#: includes/ce/Library.php:3944
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3949
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3953
+#: includes/ce/Library.php:3949 includes/ce/Library.php:3953
+msgid "Pages"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3954
+#: includes/ce/Library.php:3954
+msgid "Your site WordPress Pages"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3958
+#: includes/ce/Library.php:3958
+msgid "Sort by"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3962
+#: includes/ce/Library.php:3962
+msgid "Page title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3963
+#: includes/ce/Library.php:3963
+msgid "Page order"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3964
+#: includes/ce/Library.php:3964
+msgid "Page ID"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3969
+#: includes/ce/Library.php:3969
+msgid "Exclude"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3971
+#: includes/ce/Library.php:3971
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3976
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3980
+#: includes/ce/Library.php:3976 includes/ce/Library.php:3980
+msgid "Recent Posts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3981
+#: includes/ce/Library.php:3981
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3985
+#: includes/ce/Library.php:3985
+msgid "Number of Posts to show"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3991
+#: includes/ce/Library.php:3991
+msgid "Display post date?"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:3998
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4002
+#: includes/ce/Library.php:3998 includes/ce/Library.php:4002
+msgid "Recent Comments"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4003
+#: includes/ce/Library.php:4003
+msgid "The most recent comments"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4007
+#: includes/ce/Library.php:4007
+msgid "Number of Comments to show"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4014
+#: includes/ce/Library.php:4014
+msgid "RSS"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4017
+#: includes/ce/Library.php:4017
+msgid "RSS feed URL"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4019
+#: includes/ce/Library.php:4019
+msgid "Enter the RSS feed URL here"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4023
+#: includes/ce/Library.php:4023
+msgid "Feed title"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4025
+#: includes/ce/Library.php:4025
+msgid "Give the feed a title (optional)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4029
+#: includes/ce/Library.php:4029
+msgid "Items quantity"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4031
+#: includes/ce/Library.php:4031
+msgid "How many items would you like to display?"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4036
+#: includes/ce/Library.php:4036
+msgid "Display item content?"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4042
+#: includes/ce/Library.php:4042
+msgid "Display item author if available?"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4048
+#: includes/ce/Library.php:4048
+msgid "Display item date?"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4055
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4059
+#: includes/ce/Library.php:4055 includes/ce/Library.php:4059
+msgid "Search"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4060
+#: includes/ce/Library.php:4060
+msgid "A search form for your site"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4065
+#: includes/ce/Library.php:4065
+msgid "Tag Cloud"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4070
+#: includes/ce/Library.php:4070
+msgid "Your most used tags in cloud format"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4074
+#: includes/ce/Library.php:4074
+msgid "Taxonomy"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4088
+#: includes/ce/Library.php:4088
+msgid "Grid"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4115
+#: includes/ce/Library.php:4115
+msgid "Media"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4122
+#: includes/ce/Library.php:4122
+msgid "Other"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4146
+#: includes/ce/Library.php:4146
+msgid "WordPress"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Library.php:4432
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:93
+#: includes/ce/Library.php:4432 includes/motopressOptions.php:93
+msgid "Google Fonts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEContentManager.php:567
+#: includes/ce/MPCEContentManager.php:567
+msgid "Text Editor"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEContentManager.php:572
+#: includes/ce/MPCEContentManager.php:572
+msgid "Open Visual Builder"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEContentManager.php:597
+#: includes/ce/MPCEContentManager.php:597
+msgid ""
+"Note: content created in Visual Builder will be displayed on your site "
+"when Visual Builder tab is active. You may switch to default Text Editor "
+"anytime but your edits will not be replicated in the visual version. "
+"Content in Text Editor tab is automatically updated with edits you make in "
+"Visual Builder."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEFrontendBuilder.php:133
+#: includes/ce/MPCEFrontendBuilder.php:134
+msgid "Add"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEFrontendBuilder.php:314
+#: includes/ce/MPCEFrontendBuilder.php:315
+msgid "Go back"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEFrontendBuilder.php:321
+#: includes/ce/MPCEFrontendBuilder.php:322
+#, php-format
+msgid "Go to %s"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCEObjectTemplatesLibrary.php:91
+#: includes/ce/MPCEObjectTemplatesLibrary.php:91
+msgid "Uncategorized"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCERevisionManager.php:108
+#: includes/ce/MPCERevisionManager.php:108
+msgctxt "revision date format"
+msgid "M j @ H:i"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCERevisionManager.php:130
+#: includes/ce/MPCERevisionManager.php:130
+#, php-format
+msgid "%1$s ago (%2$s)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCERevisionManager.php:217
+#: includes/ce/MPCERevisionManager.php:217
+msgid "Invalid Revision"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCERevisionManager.php:221
+#: !zip/motopress-content-editor-lite/includes/ce/MPCERevisionManager.php:243
+#: includes/ce/MPCERevisionManager.php:221
+#: includes/ce/MPCERevisionManager.php:243
+msgid "You have no access to this revision"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCERevisionManager.php:239
+#: includes/ce/MPCERevisionManager.php:239
+msgid "You must set the id"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/MPCERevisionManager.php:252
+#: includes/ce/MPCERevisionManager.php:252
+msgid "Cannot delete this Revision"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/Object.php:128
+#: !zip/motopress-content-editor-lite/includes/ce/Object.php:161
+#: includes/ce/Object.php:128 includes/ce/Object.php:161
+#, php-format
+msgid "Value should be one of these values: %s"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/contentEditorFunctions.php:53
+#: includes/ce/contentEditorFunctions.php:53
+#, php-format
+msgid ""
+"Use the mapped domain to access the admin area. Find out <a href='%s' "
+"target='_blank'>here</a> how to setup it"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/contentEditorFunctions.php:61
+#: includes/ce/contentEditorFunctions.php:61
+#, php-format
+msgid "%s error: contact your hosting provider to enable mbstring extension."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/getAttachmentThumbnail.php:22
+#: includes/ce/getAttachmentThumbnail.php:22
+msgid "Error getting the attachment image src"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/getAttachmentThumbnail.php:25
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:482
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:596
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1004
+#: includes/ce/getAttachmentThumbnail.php:25
+#: includes/ce/shortcode/ShortcodeCommon.php:482
+#: includes/ce/shortcode/ShortcodeCommon.php:596
+#: includes/ce/shortcode/ShortcodeCommon.php:1004
+msgid "Attachment is not an image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/getAttachmentThumbnail.php:28
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:485
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:599
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1007
+#: includes/ce/getAttachmentThumbnail.php:28
+#: includes/ce/shortcode/ShortcodeCommon.php:485
+#: includes/ce/shortcode/ShortcodeCommon.php:599
+#: includes/ce/shortcode/ShortcodeCommon.php:1007
+msgid "Empty attachment or post type not equal 'attachment'"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/getAttachmentThumbnail.php:31
+#: includes/ce/getAttachmentThumbnail.php:31
+msgid "Error while getting the attachment thumbnail"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/removeTemporaryPost.php:23
+#: !zip/motopress-content-editor-lite/includes/ce/removeTemporaryPost.php:31
+#: includes/ce/removeTemporaryPost.php:23
+#: includes/ce/removeTemporaryPost.php:31
+msgid "An error occurred while removing temporary post"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/renderShortcode.php:7
+#: !zip/motopress-content-editor-lite/includes/ce/renderShortcodesString.php:6
+#: includes/ce/renderShortcode.php:7 includes/ce/renderShortcodesString.php:6
+#, php-format
+msgid "An error occurred while rendering %s"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/renderShortcode.php:7
+#: !zip/motopress-content-editor-lite/includes/ce/renderShortcodesString.php:6
+#: includes/ce/renderShortcode.php:7 includes/ce/renderShortcodesString.php:6
+msgid "shortcode"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:603
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1011
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1014
+#: includes/ce/shortcode/ShortcodeCommon.php:603
+#: includes/ce/shortcode/ShortcodeCommon.php:1011
+#: includes/ce/shortcode/ShortcodeCommon.php:1014
+msgid "List of images is empty. Select images."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:920
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:620
+#: _old/motopress-content-editor-lite/includes/ce/Shortcode.php:1028
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:651
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:985
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3268
+#: includes/ce/shortcode/ShortcodeCommon.php:920
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:620
+msgid "No posts found."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1082
+#: includes/ce/shortcode/ShortcodeCommon.php:1082
+msgid "Error while getting the video id"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1085
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1088
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1094
+#: includes/ce/shortcode/ShortcodeCommon.php:1085
+#: includes/ce/shortcode/ShortcodeCommon.php:1088
+#: includes/ce/shortcode/ShortcodeCommon.php:1094
+msgid "Incorrect video URL"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1091
+#: includes/ce/shortcode/ShortcodeCommon.php:1091
+msgid "Error while parsing the video URL"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1898
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:1940
+#: includes/ce/shortcode/ShortcodeCommon.php:1898
+#: includes/ce/shortcode/ShortcodeCommon.php:1940
+msgid "Nothing found. Please enter correct address."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:2238
+#: includes/ce/shortcode/ShortcodeCommon.php:2238
+msgid "Audio source is empty."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:2451
+#: includes/ce/shortcode/ShortcodeCommon.php:2451
+msgid "Table data is empty."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:3171
+#: includes/ce/shortcode/ShortcodeCommon.php:3171
+msgid "Featured Image, Title, Content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:3174
+#: includes/ce/shortcode/ShortcodeCommon.php:3174
+msgid "Title, Featured Image, Content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcode/ShortcodeCommon.php:3177
+#: includes/ce/shortcode/ShortcodeCommon.php:3177
+msgid "Featured Image left, Title, Content"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:667
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:671
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:698
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:702
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3177
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3181
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:667
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:671
+msgid "Newer posts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:668
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:670
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:699
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:701
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3178
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3180
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:668
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:670
+msgid "Older posts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:758
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:789
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3312
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:758
+msgid "All Categories"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:758
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:789
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3327
+#: includes/ce/shortcodes/post_grid/MPCEShortcodePostsGrid.php:758
+msgid "All Tags"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: includes/ce/shortcodes/post_grid/templates/template3.php:22
+msgid "Leave a comment"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: includes/ce/shortcodes/post_grid/templates/template3.php:22
+msgid "1 Comment"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: !zip/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: _old/motopress-content-editor-lite/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: _old/motopress-content-editor/includes/ce/shortcodes/post_grid/templates/template3.php:22
+#: includes/ce/shortcodes/post_grid/templates/template1.php:22
+#: includes/ce/shortcodes/post_grid/templates/template2.php:22
+#: includes/ce/shortcodes/post_grid/templates/template3.php:22
+msgid "% Comments"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/updateObjectTemplatesLibrary.php:11
+#: includes/ce/updateObjectTemplatesLibrary.php:11
+msgid "Error while getting the library of object templates"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/updatePalettes.php:11
+#: includes/ce/updatePalettes.php:11
+msgid "Error while getting the palettes"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/ce/updateStylePresets.php:14
+#: includes/ce/updateStylePresets.php:14
+msgid "Error while getting the presets data"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/functions.php:75
+#: includes/functions.php:75
+msgid "Maybe you are not logged in or you have no permission"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:4
+#: includes/jsTranslations.php:4
+msgid "Drag objects here"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:5
+#: includes/jsTranslations.php:5
+msgid ""
+"Drag objects from the left panel to this area to start working with them"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:6
+#: includes/jsTranslations.php:6
+msgid "or"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:7
+#: includes/jsTranslations.php:7
+msgid "Click here to begin typing..."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:8
+#: includes/jsTranslations.php:8
+msgid "or choose one of the predefined layouts"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:10
+#: includes/jsTranslations.php:10
+msgid "Insert"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:12
+#: includes/jsTranslations.php:12
+msgid "You have reached the maximum number of blocks available for this row"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:15
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:56
+#: !zip/motopress-content-editor-lite/templates/editor.php:67
+#: !zip/motopress-content-editor-lite/templates/editor.php:139
+#: includes/jsTranslations.php:15 includes/motopressOptions.php:56
+#: templates/editor.php:67 templates/editor.php:139
+msgid "Save"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:16
+#: !zip/motopress-content-editor-lite/templates/editor.php:76
+#: !zip/motopress-content-editor-lite/templates/editor.php:141
+#: !zip/motopress-content-editor-lite/templates/editor.php:182
+#: includes/jsTranslations.php:16 templates/editor.php:76
+#: templates/editor.php:141 templates/editor.php:182
+msgid "Close"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:17
+#: includes/jsTranslations.php:17
+msgid "Element Style and Presets:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:18
+#: includes/jsTranslations.php:18
+msgid ""
+"Click Edit Element Style to apply style to this element only. Save style "
+"as Preset to apply to another elements. Predefined Styles may overwrite "
+"these values."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:20
+#: includes/jsTranslations.php:20
+msgid "Background Image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:21
+#: includes/jsTranslations.php:21
+msgid "Background Image Repeat"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:22
+#: includes/jsTranslations.php:22
+msgid "Default"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:24
+#: includes/jsTranslations.php:24
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:25
+#: includes/jsTranslations.php:25
+msgid "Repeat Vertically"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:26
+#: includes/jsTranslations.php:26
+msgid "No Repeat"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:27
+#: includes/jsTranslations.php:27
+msgid "Background Image Size"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:31
+#: includes/jsTranslations.php:31
+msgid "Background Image Position"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:39
+#: includes/jsTranslations.php:39
+msgid "Background Position X (in %)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:40
+#: includes/jsTranslations.php:40
+msgid "Background Position Y (in %)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:41
+#: includes/jsTranslations.php:41
+msgid "Background Image Attachment"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:43
+#: includes/jsTranslations.php:43
+msgid "Scroll"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:44
+#: includes/jsTranslations.php:44
+msgid "Padding Top"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:45
+#: includes/jsTranslations.php:45
+msgid "Padding Bottom"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:46
+#: includes/jsTranslations.php:46
+msgid "Padding Left"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:47
+#: includes/jsTranslations.php:47
+msgid "Padding Right"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:48
+#: includes/jsTranslations.php:48
+msgid "Margin Top"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:49
+#: includes/jsTranslations.php:49
+msgid "Margin Bottom"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:50
+#: includes/jsTranslations.php:50
+msgid "Margin Left"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:51
+#: includes/jsTranslations.php:51
+msgid "Margin Right"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:52
+#: includes/jsTranslations.php:52
+msgid "Border Style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:54
+#: includes/jsTranslations.php:54
+msgid "Solid"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:55
+#: includes/jsTranslations.php:55
+msgid "Dotted"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:56
+#: includes/jsTranslations.php:56
+msgid "Dashed"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:57
+#: includes/jsTranslations.php:57
+msgid "Double"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:58
+#: includes/jsTranslations.php:58
+msgid "Groove"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:59
+#: includes/jsTranslations.php:59
+msgid "Ridge"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:60
+#: includes/jsTranslations.php:60
+msgid "Inset"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:61
+#: includes/jsTranslations.php:61
+msgid "Outset"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:62
+#: includes/jsTranslations.php:62
+msgid "Top Border Width"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:63
+#: includes/jsTranslations.php:63
+msgid "Bottom Border Width"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:64
+#: includes/jsTranslations.php:64
+msgid "Left Border Width"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:65
+#: includes/jsTranslations.php:65
+msgid "Right Border Width"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:66
+#: includes/jsTranslations.php:66
+msgid "Border Color"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:67
+#: includes/jsTranslations.php:67
+msgid "Top Left Border Radius"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:68
+#: includes/jsTranslations.php:68
+msgid "Top Right Border Radius"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:69
+#: includes/jsTranslations.php:69
+msgid "Bottom Left Border Radius"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:70
+#: includes/jsTranslations.php:70
+msgid "Bottom Right Border Radius"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:71
+#: includes/jsTranslations.php:71
+msgid "Predefined Styles:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:72
+#: includes/jsTranslations.php:72
+msgid ""
+"Predefined styles will appear here if plugin or theme provides ones. Hover "
+"the Eye icon to preview style."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:73
+#: includes/jsTranslations.php:73
+msgid "Space around element (quick form). Click to set:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:74
+#: includes/jsTranslations.php:74
+msgid "Nonce error"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:75
+#: includes/jsTranslations.php:75
+msgid "Nonce is invalid. Try to reload page"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:76
+#: includes/jsTranslations.php:76
+msgid "Access error"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:77
+#: includes/jsTranslations.php:77
+msgid "You have no permission"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:78
+#: includes/jsTranslations.php:78
+msgid ""
+"There is no Content Block on this page template or Content Block Query "
+"Mode is set Custom Query. Add Content Block using the Headway Grid first "
+"or change Query Mode to Default Behaviour."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:79
+#: includes/jsTranslations.php:79
+msgid ""
+"There is no Content section on the template of this page. Make sure the "
+"page template is correct."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:80
+#: includes/jsTranslations.php:80
+msgid ""
+"You are about to edit the content created with the WordPress Editor. It is "
+"available as a single block and will be edited using the WordPress Editor"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:81
+#: includes/jsTranslations.php:81
+msgid "The changes you made will be lost if you leave this page."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:83
+#: !zip/motopress-content-editor-lite/templates/editor.php:72
+#: includes/jsTranslations.php:83 templates/editor.php:72
+msgid "Publish"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:84
+#: includes/jsTranslations.php:84
+msgid "Update"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:85
+#: includes/jsTranslations.php:85
+msgid "Updating..."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:86
+#: includes/jsTranslations.php:86
+msgid "%postType% saved. <a href='%link%' target='_blank'>%preview%</a>"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:87
+#: includes/jsTranslations.php:87
+msgid "Preview"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:88
+#: includes/jsTranslations.php:88
+msgid "Saving..."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:89
+#: includes/jsTranslations.php:89
+msgid "Insert Read More tag"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:90
+#: includes/jsTranslations.php:90
+msgid "Addons"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:91
+#: includes/jsTranslations.php:91
+msgid "Drag to stage to insert"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:92
+#: includes/jsTranslations.php:92
+msgid "Set Media"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:93
+#: includes/jsTranslations.php:93
+msgid "Set Image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:94
+#: includes/jsTranslations.php:94
+msgid "Set Video"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:95
+#: includes/jsTranslations.php:95
+msgid "Set Images"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:96
+#: includes/jsTranslations.php:96
+msgid "Click to remove More tag"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:97
+#: includes/jsTranslations.php:97
+msgid "Click to set More tag here"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:98
+#: includes/jsTranslations.php:98
+msgid ""
+"There are no Styles of this element. To apply style class from your "
+"stylesheet type it and press Enter."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:99
+#: includes/jsTranslations.php:99
+msgid "This feature is only available in Pro version"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:100
+#: includes/jsTranslations.php:100
+msgid "There are no presets."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:101
+#: includes/jsTranslations.php:101
+msgid "Desktop Style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:102
+#: includes/jsTranslations.php:102
+msgid "Tablet Style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:103
+#: includes/jsTranslations.php:103
+msgid "Mobile Style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:104
+#: includes/jsTranslations.php:104
+msgid "Hover Style"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:105
+#: includes/jsTranslations.php:105
+msgid "Apply"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:106
+#: includes/jsTranslations.php:106
+msgid "Cancel"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:107
+#: includes/jsTranslations.php:107
+msgid "Save as ..."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:108
+#: includes/jsTranslations.php:108
+msgid "Clear"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:109
+#: includes/jsTranslations.php:109
+msgid "Rename"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:110
+#: includes/jsTranslations.php:110
+msgid "Delete"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:111
+#: includes/jsTranslations.php:111
+msgid "Rename Preset \"%presetLabel%\". Empty name is not allowed."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:112
+#: includes/jsTranslations.php:112
+msgid "Empty preset name is not allowed."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:113
+#: includes/jsTranslations.php:113
+msgid "Are you sure you want to delete preset \"%presetLabel%\"?"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:114
+#: includes/jsTranslations.php:114
+msgid "Insert/edit image"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:115
+#: includes/jsTranslations.php:115
+msgid "Link class"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/jsTranslations.php:116
+#: includes/jsTranslations.php:116
+msgid ""
+"%userName% has taken over and is currently editing. Do you want to take "
+"over this page editing (Cancel - %sendback%)?"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:8
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:485
+#: includes/motopressOptions.php:8 includes/motopressOptions.php:485
+msgid "Settings saved."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:66
+#: includes/motopressOptions.php:66
+msgid "Enable Visual Builder for"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:72
+#: includes/motopressOptions.php:72
+msgid "Disable Visual Builder for user groups"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:77
+#: includes/motopressOptions.php:77
+msgid "Check spelling"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:81
+#: includes/motopressOptions.php:81
+msgid "Fixed Row Width"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:85
+#: includes/motopressOptions.php:85
+msgid "Custom CSS code:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:89
+#: includes/motopressOptions.php:89
+msgid "Excerpt and More tag"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:98
+#: includes/motopressOptions.php:98
+msgid "WordPress Multisite"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:149
+#: includes/motopressOptions.php:149
+msgid "Check my spelling as I type"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:150
+#: includes/motopressOptions.php:150
+msgid ""
+"To spell check your entry, spell checking must be enabled in your browser."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:176
+#: includes/motopressOptions.php:176
+msgid "Submit your CSS code to this field to add new styles to the theme."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:178
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:181
+#: includes/motopressOptions.php:178 includes/motopressOptions.php:181
+#, php-format
+msgid ""
+"Note: you are not able to edit custom css code because the directory %s "
+"not found or not writable."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:193
+#: includes/motopressOptions.php:193
+msgid "Convert shortcodes in excerpt to html"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:222
+#: includes/motopressOptions.php:222
+#, php-format
+msgid ""
+"Use this form to add <a href='https://www.google.com/fonts'>Google Fonts</"
+"a> to %s. You can find these fonts at the Style panel of the text objects. "
+"Press <b>Save</b> button at the bottom of the page to apply your changes."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:223
+#: includes/motopressOptions.php:223
+msgid ""
+"Tip: <i>Using many font styles and character sets can slow down your "
+"webpage, so only select the ones you actually need on your webpage.</i>"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:232
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:270
+#: includes/motopressOptions.php:232 includes/motopressOptions.php:270
+msgid "Remove"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:235
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:263
+#: includes/motopressOptions.php:235 includes/motopressOptions.php:263
+msgid "Font Family"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:239
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:268
+#: includes/motopressOptions.php:239 includes/motopressOptions.php:268
+msgid "Styles:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:245
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:269
+#: includes/motopressOptions.php:245 includes/motopressOptions.php:269
+msgid "Character sets:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:271
+#: includes/motopressOptions.php:271
+msgid "Add New Font style:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:272
+#: includes/motopressOptions.php:272
+msgid "Custom Style Name:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:274
+#: includes/motopressOptions.php:274
+msgid "Add Google Font"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:275
+#: includes/motopressOptions.php:275
+msgid ""
+"Enter Custom Style Name ex. HomePageHeader to use in Style selector and "
+"press Add Google Font button. Choose Font Family and styles of the created "
+"font style."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:276
+#: includes/motopressOptions.php:276
+msgid ""
+"Custom Style Name can contain only latin letters, numbers, hyphens and "
+"underscores."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:276
+#: includes/motopressOptions.php:276
+msgid "This Custom Style Name already exists."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/includes/motopressOptions.php:293
+#: includes/motopressOptions.php:293
+#, php-format
+msgid "Hide %s Settings on subsites"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/motopress-content-editor.php:244
+#: motopress-content-editor.php:244
+#, php-format
+msgid "%s (Locked)"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor-page.php:7
+#: templates/editor-page.php:7
+msgid "MotoPress Content Editor"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:14
+#: templates/editor.php:14
+msgid "Page Settings"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:23
+#: templates/editor.php:23
+msgid "History"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:50
+#: templates/editor.php:50
+msgid "Desktop"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:51
+#: templates/editor.php:51
+msgid "Tablet"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:52
+#: templates/editor.php:52
+msgid "Mobile"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:58
+#: templates/editor.php:58
+msgid "Help"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:63
+#: templates/editor.php:63
+msgid "Upgrade"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:78
+#: templates/editor.php:78
+msgid "Edit Post"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:79
+#: templates/editor.php:79
+msgid "Dashboard"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:92
+#: templates/editor.php:92
+msgid "Log Out"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:108
+#: templates/editor.php:108
+#, php-format
+msgid "%s Help & Tutorials"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:150
+#: templates/editor.php:150
+msgid "Save Preset"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:153
+#: templates/editor.php:153
+msgid "Inherit properties from preset"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:158
+#: templates/editor.php:158
+msgid "Category:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:160
+#: templates/editor.php:160
+msgid "Create New Preset"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:161
+#: templates/editor.php:161
+msgid "Save As Preset"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:171
+#: templates/editor.php:171
+msgid "Preset Name:"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:173
+#: templates/editor.php:173
+msgid "Leave this field blank to generate name automatically."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:178
+#: templates/editor.php:178
+msgid "Create Preset"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:180
+#: templates/editor.php:180
+msgid "Update Preset"
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:200
+#: templates/editor.php:200
+msgid ""
+"An internal error occurred during loading Visual Builder. Please submit "
+"this data to support team."
+msgstr ""
+
+#: !zip/motopress-content-editor-lite/templates/editor.php:209
+#: templates/editor.php:209
+msgid "Terminate & Close"
+msgstr ""
+
+#: _old/motopress-content-editor/includes/ce/Shortcode.php:3265
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MotoPress Content Editor Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://motopress.com/products/content-editor/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Drag and drop frontend page builder for any theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://motopress.com/"
+msgstr ""
